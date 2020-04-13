@@ -1,0 +1,16 @@
+:root {
+  --fontTitle: 25px;
+  --fontSubtitle:;
+  --fontParagraph: 18px;
+}
+
+body {
+  margin: auto;
+  min-height:100vh;
+  font-family: 'Montserrat', sans-serif;
+  user-select: none;
+}
+
+.bg-2 {
+  background: #4caf50;
+}
